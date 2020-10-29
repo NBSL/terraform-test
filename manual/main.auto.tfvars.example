@@ -1,0 +1,8 @@
+bucket_name =  "<bucket name>"
+keyfile = "<keyfile>.json"
+project_id = "<project_id>"
+region = "us-central1"
+domain = "<domain>"
+username = "example"
+password = "password"
+num_nodes = 1
